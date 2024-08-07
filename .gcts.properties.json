@@ -1,0 +1,14 @@
+{
+  "name": "_iie_clbman",
+  "version": "1.0.0",
+  "description": "_IIE_CLBMAN",
+  "repositoryLayout": {
+    "formatVersion": 6,
+    "format": "json",
+    "metaInformation": ".gctsmetadata/",
+    "tableContent": "true",
+    "readableSource": "false",
+    "keepClient": "false",
+    "fingerprintSeckey": "/BYOG/FPRINT_RT/7ADF5F2805C91EDF9598C6311F63EF23_0"
+  }
+}
