@@ -1,0 +1,46 @@
+{
+ "fingerprints":
+ [
+  {
+   "name":"CINC /IIE/BP_C_MEMBERSHIPTYPES_S===CCAU.abap",
+   "fingerprint":"QaHne6KYb6HCBI5c15iVy1DfNg8Q5S690rOpgMP8q0zke4b7C7NVkYiS6oc2lzlFsR60HK07s5WmsjFivCl2yA=="
+  },
+  {
+   "name":"CINC /IIE/BP_C_MEMBERSHIPTYPES_S===CCDEF.abap",
+   "fingerprint":"p7TghCFw7BoG/t5L4bT3sUO9fAL1GbWhEsGAe2HRKMGvMRN8pVKwn3I6Ecmi6eUT6WO+jUseSEyN7wYEhuCtjQ=="
+  },
+  {
+   "name":"CINC /IIE/BP_C_MEMBERSHIPTYPES_S===CCIMP.abap",
+   "fingerprint":"6Xjh6HrdGcX4dic2Zoe2TbfYi1qpCXiWSSE3HZjdpgQOLHLQZcKWtO8yXBj2eg4uI1febWHasqSxAodCSqgMLw=="
+  },
+  {
+   "name":"CINC /IIE/BP_C_MEMBERSHIPTYPES_S===CCMAC.abap",
+   "fingerprint":"b2sDI/savdvAPF4dXkJTQ/xxm9nx7leUJE+ciUjWQ9gwq2A6WUqkQMurT0EUN50G9ws/TQMj6pZ3AGX0/ajBMw=="
+  },
+  {
+   "name":"CLAS /IIE/BP_C_MEMBERSHIPTYPES_S.asx.json",
+   "fingerprint":"mPc77oWJluF3fUo1bbUxp1TQXApmWqabxPXtv1GmEuhdV3C8dCsoxEflvcZL+rhtdDcs2DbES+MxMC41k7dGdg=="
+  },
+  {
+   "name":"CLSD /IIE/BP_C_MEMBERSHIPTYPES_S.abap",
+   "fingerprint":"BLEv0xHYbmscO+e3c5QTZfoeTudFtXQ4EJ1AjJzI9f51TAOOk+3HChphjDJMq1b8Ed5luRban0QfRzrA67rJJA=="
+  },
+  {
+   "name":"CPRI /IIE/BP_C_MEMBERSHIPTYPES_S.abap",
+   "fingerprint":"fc6PiS3claD/sfiMyWA7t/+hoPN9MMChpkMFO4i9hwYc/LcTY47GUUj/FVqQQogrUVQO8VrFD4WXSoFMt7Q29Q=="
+  },
+  {
+   "name":"CPRO /IIE/BP_C_MEMBERSHIPTYPES_S.abap",
+   "fingerprint":"U7DRO8EuW2OXNLoBmZJ8uDbY8JDcSbFkeZiw1Ow66A5wU9QjBs3mNSq03C2x4T1P4PSjkU5/+sWwnsvRbalGYQ=="
+  },
+  {
+   "name":"CPUB /IIE/BP_C_MEMBERSHIPTYPES_S.abap",
+   "fingerprint":"dTpD/J9Vx0nIULmAlzFOTdrrSwdrsQkJqh6zZnPKjM31hV0t9rFLJSgwPM5c3DEaHGGyCo7i/pPchX3hc5QjMw=="
+  },
+  {
+   "name":"REPS /IIE/BP_C_MEMBERSHIPTYPES_S===CT.abap",
+   "fingerprint":"62+Vzjs8TWRoWCZ3E10JPy5avoH4qe5e9ufBFm9cUoGO4ChkedZ8cn9vvjXgZZE01qTnFWxjIpylgEumFg4B8g=="
+  }
+ ],
+ "fingerprintAll":"NH8lyybNyHnV1K3yGsMfEsMDfs8Bml7tWlhZi13fXl/s9AtNDItMH7jLeCnW12tF6iLcy7I9uc3SWmKojGn/hw=="
+}

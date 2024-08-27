@@ -1,0 +1,60 @@
+[
+ {
+  "table":"ACMDCLSRC",
+  "data":
+  [
+   {
+    "DCLNAME":"/IIE/C_MEMBERSHIPTYPES",
+    "AS4LOCAL":"A",
+    "AS4USER":"SAP_CUSTOMER",
+    "AS4DATE":"2024-08-10",
+    "AS4TIME":"08:38:49",
+    "SOURCE":"@MappingRole: true\r\ndefine role /IIE/C_MembershipTypes {\r\n  grant select on /IIE/C_MembershipTypes\r\n  where INHERITING CONDITIONS FROM ENTITY /IIE/I_MembershipTypes;\r\n}",
+    "PARENTNAME":"",
+    "ABAP_LANGUAGE_VERSION":"5"
+   }
+  ]
+ },
+ {
+  "table":"ACMDCLSRCT",
+  "data":
+  [
+   {
+    "DCLNAME":"/IIE/C_MEMBERSHIPTYPES",
+    "DCLLANGUAGE":"E",
+    "AS4LOCAL":"A",
+    "DDTEXT":"Mapping Role for /IIE/C_MembershipTypes"
+   }
+  ]
+ },
+ {
+  "table":"TADIR",
+  "data":
+  [
+   {
+    "PGMID":"R3TR",
+    "OBJECT":"DCLS",
+    "OBJ_NAME":"/IIE/C_MEMBERSHIPTYPES",
+    "KORRNUM":"",
+    "SRCSYSTEM":"...",
+    "AUTHOR":"SAP_CUSTOMER",
+    "SRCDEP":"",
+    "DEVCLASS":"/IIE/CLBMAN_CDS",
+    "GENFLAG":"",
+    "EDTFLAG":"",
+    "CPROJECT":" S",
+    "MASTERLANG":"E",
+    "VERSID":"",
+    "PAKNOCHECK":"",
+    "OBJSTABLTY":"",
+    "COMPONENT":"/IIE/CLBMAN",
+    "CRELEASE":"100",
+    "DELFLAG":"",
+    "TRANSLTTXT":"",
+    "CREATED_ON":"2024-08-09",
+    "CHECK_DATE":"2024-08-09",
+    "CHECK_CFG":""
+   }
+  ]
+ }
+]
